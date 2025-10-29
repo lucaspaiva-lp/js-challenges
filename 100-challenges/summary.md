@@ -1,6 +1,6 @@
 ## Exercícios de Lógica e Algoritmos
 ### Manipulação de Números
-- [Calcule a média de três números fornecidos pelo usuário.](/100-challenges/desafio1.mddesafio1.md)
+- [Calcule a média de três números fornecidos pelo usuário.](/100-challenges/all-challenges/desafio1.md)
 - Verifique se um número é par ou ímpar.
 - Converta uma temperatura de Celsius para Fahrenheit.
 - Determine se um número é primo.Encontre o maior de três números fornecidos.
