@@ -1,6 +1,6 @@
 ### 1. Calcule a média de três números fornecidos pelo usuário.
 <details>
-    <summary> Code: </summary>
+    <summary> Result: </summary>
 
 ```javascript
     let num1 = prompt("Primeiro número:");
