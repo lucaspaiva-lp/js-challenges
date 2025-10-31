@@ -1,4 +1,4 @@
-### 29. Crie um cronômetro simples que conte até 10.
+### 28. Crie um cronômetro simples que conte até 10.
 <details>
     <summary> Result: </summary>
 
