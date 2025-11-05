@@ -5,7 +5,7 @@
 3. Converta uma temperatura de Celsius para Fahrenheit.
 4. Determine se um número é primo.
 5. Encontre o maior de três números fornecidos.
-6. Escreva uma função para calcular o fatorial de um número.
+6. Escreva uma função para calcular o fatorial de um número
 7. Crie um algoritmo que exiba os números de 1 a 100, mas substitua os múltiplos de 3 por izz" e os múltiplos de 5 por "Buzz".
 8. Converta um número de segundos para o formato HH:mm:ss.
 9. Crie uma função para verificar se um número é um palíndromo.
